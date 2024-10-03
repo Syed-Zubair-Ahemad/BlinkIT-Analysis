@@ -1,4 +1,5 @@
-Blinkit Sales Dashboard - Power BI
+#Blinkit Sales Dashboard - Power BI
+
 Overview
 This repository contains a Power BI dashboard I developed using the Blinkit dataset. The dashboard provides key insights into sales performance, product analysis, and customer reviews.
 
